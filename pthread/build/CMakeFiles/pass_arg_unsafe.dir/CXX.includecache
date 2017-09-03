@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/s/source/thread_tutorial/pthread/d_pass_arg_unsafe.cpp
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+
