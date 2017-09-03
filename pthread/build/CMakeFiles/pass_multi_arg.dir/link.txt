@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/pass_multi_arg.dir/c_pass_multi_arg.cpp.o  -o ../bin/pass_multi_arg -rdynamic -lpthread 
